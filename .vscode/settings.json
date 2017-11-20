@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "exception": "cpp",
-        "locale": "cpp",
-        "string": "cpp",
-        "iosfwd": "cpp"
-    }
-}
